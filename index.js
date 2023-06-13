@@ -132,7 +132,7 @@ function mostrarDesayunos(){
         <figure>
             <img
                 src="/imagenes/desayuno1.jpg"
-                alt="producto"
+                alt="desayuno1"
             />
         </figure>
         <div class="info-product">
