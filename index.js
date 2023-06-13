@@ -144,7 +144,7 @@ function mostrarDesayunos(){
     <div class="item">
         <figure>
             <img
-                src="imagenes/desayuno2.jfif"
+                src="./imagenes/desayuno2.jfif"
                 alt="desayuno2"
             />
         </figure>
@@ -157,7 +157,7 @@ function mostrarDesayunos(){
     <div class="item">
         <figure>
             <img
-                src="imagenes/desayuno3.jpg"
+                src="./imagenes/desayuno3.jpg"
                 alt="desayuno3"
             />
         </figure>
@@ -170,7 +170,7 @@ function mostrarDesayunos(){
     <div class="item">
         <figure>
             <img
-                src="/imagenes/desayuno4.jfif"
+                src="./imagenes/desayuno4.jfif"
                 alt="desayuno4"
             />
         </figure>
@@ -183,7 +183,7 @@ function mostrarDesayunos(){
     <div class="item">
         <figure>
             <img
-                src="/imagenes/desayuno5.jfif"
+                src="./imagenes/desayuno5.jfif"
                 alt="desayuno5"
             />
         </figure>
@@ -197,7 +197,7 @@ function mostrarDesayunos(){
     <div class="item">
         <figure>
             <img
-                src="/imagenes/desayuno6.jfif"
+                src="./imagenes/desayuno6.jfif"
                 alt="desayuno6"
             />
         </figure>
@@ -219,7 +219,7 @@ function mostrarAlmuerzos(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/almuerzo1.jfif"
+							src="./imagenes/almuerzo1.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -232,7 +232,7 @@ function mostrarAlmuerzos(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/almuerzo2.jfif"
+							src="./imagenes/almuerzo2.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -245,7 +245,7 @@ function mostrarAlmuerzos(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/almuerzo3.jfif"
+							src="./imagenes/almuerzo3.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -258,7 +258,7 @@ function mostrarAlmuerzos(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/almuerzo4.jfif"
+							src="./imagenes/almuerzo4.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -271,7 +271,7 @@ function mostrarAlmuerzos(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/almuerzo5.jpg"
+							src="./imagenes/almuerzo5.jpg"
 							alt="producto"
 						/>
 					</figure>
@@ -286,7 +286,7 @@ function mostrarAlmuerzos(){
                 <div class="item">
 					<figure>
 						<img
-							src="/imagenes/almuerzo6.jpg"
+							src="./imagenes/almuerzo6.jpg"
 							alt="producto"
 						/>
 					</figure>
@@ -308,7 +308,7 @@ function mostrarCenas(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/cena1.jfif"
+							src="./imagenes/cena1.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -321,7 +321,7 @@ function mostrarCenas(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/cena2.jfif"
+							src="./imagenes/cena2.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -334,7 +334,7 @@ function mostrarCenas(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/cena3.jfif"
+							src="./imagenes/cena3.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -347,7 +347,7 @@ function mostrarCenas(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/cena4.jfif"
+							src="./imagenes/cena4.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -360,7 +360,7 @@ function mostrarCenas(){
 				<div class="item">
 					<figure>
 						<img
-							src="/imagenes/cena5.jfif"
+							src="./imagenes/cena5.jfif"
 							alt="producto"
 						/>
 					</figure>
@@ -375,7 +375,7 @@ function mostrarCenas(){
                 <div class="item">
                 <figure>
                     <img
-                        src="/imagenes/cena6.jfif"
+                        src="./imagenes/cena6.jfif"
                         alt="producto"
                     />
                 </figure>
