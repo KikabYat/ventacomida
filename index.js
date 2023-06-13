@@ -131,7 +131,7 @@ function mostrarDesayunos(){
     <div class="item">
         <figure>
             <img
-                src="/imagenes/desayuno1.jpg"
+                src="./imagenes/desayuno1.jpg"
                 alt="desayuno1"
             />
         </figure>
@@ -144,8 +144,8 @@ function mostrarDesayunos(){
     <div class="item">
         <figure>
             <img
-                src="/imagenes/desayuno2.jfif"
-                alt="producto"
+                src="imagenes/desayuno2.jfif"
+                alt="desayuno2"
             />
         </figure>
         <div class="info-product">
@@ -157,8 +157,8 @@ function mostrarDesayunos(){
     <div class="item">
         <figure>
             <img
-                src="/imagenes/desayuno3.jpg"
-                alt="producto"
+                src="imagenes/desayuno3.jpg"
+                alt="desayuno3"
             />
         </figure>
         <div class="info-product">
@@ -171,7 +171,7 @@ function mostrarDesayunos(){
         <figure>
             <img
                 src="/imagenes/desayuno4.jfif"
-                alt="producto"
+                alt="desayuno4"
             />
         </figure>
         <div class="info-product">
@@ -184,7 +184,7 @@ function mostrarDesayunos(){
         <figure>
             <img
                 src="/imagenes/desayuno5.jfif"
-                alt="producto"
+                alt="desayuno5"
             />
         </figure>
         <div class="info-product">
@@ -198,7 +198,7 @@ function mostrarDesayunos(){
         <figure>
             <img
                 src="/imagenes/desayuno6.jfif"
-                alt="producto"
+                alt="desayuno6"
             />
         </figure>
         <div class="info-product">
